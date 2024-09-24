@@ -1,0 +1,67 @@
+
+body {  
+    background-color: rgb(64, 64, 64);
+    background-size: cover;
+    background-repeat: no-repeat;    
+    opacity: 0.9;
+    text-align: center;
+  }
+
+  header{
+    color: white;
+  }
+
+  form {
+    color: white;
+    max-width: 500px;
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(27, 0, 94);
+    margin: 0px auto;
+  }
+
+  .first_info label input{
+    width: 100%;
+    margin: 5px 0 20px 0;
+  }
+
+ .of_radios{
+  margin-top: 70px;
+ }
+
+  h4 { 
+    color: white;
+    text-align: left;
+    font-size: 16px;
+  }
+
+  #dropdown{ 
+    width: 100%;
+    font-size: 14px;
+    color: gray;    
+  }
+
+  .checkboxs{
+    margin: 70px 0px;
+  }
+
+  .checkboxs label {
+    display: block ;
+  }
+
+  textarea{
+    height:  60px   ;
+    width: 100%;
+    margin: 20px 0 ;
+    color: gray;
+  }
+
+  #submit {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background: green;
+    border-radius: 5px;
+    color: white;
+    
+  }
